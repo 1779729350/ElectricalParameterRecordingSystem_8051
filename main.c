@@ -1,6 +1,7 @@
 /*
 Copyright 2018 by 1779729350 All Rights Reserved.
 License : GNU General Public License v3.0
+Written in Keil C51
  */
 #include <stdio.h>
 #include <intrins.h>
